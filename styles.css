@@ -8,8 +8,20 @@ body{
     height: 400px;
     background-image: url("images/Homepage.jpg");
     background-size: cover;
-      
+    font-family: 'Homemade Apple', cursive;
 }
 
+.homepageheading {
 
+    position: relative;
+    left: 45%;
+    top: 45%;
+}
+
+.homepagelist {
+
+    position: relative;
+    top: 0px;
+
+}
 
